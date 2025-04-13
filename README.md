@@ -22,7 +22,7 @@ A collection of professional security tools for reconnaissance, vulnerability sc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hacksys-hub/Info-Disclo-By-Spector-sec/security-tools
+   ggit clone https://github.com/hacksys-hub/Info-Disclo-By-Spector-sec.git
    cd security-tools
 
 
