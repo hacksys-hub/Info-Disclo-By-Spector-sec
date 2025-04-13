@@ -8,7 +8,7 @@ import signal
 
 colorama.init(autoreset=True)
 
-API_KEY = "ffb978a27bfc8db7cbabf5ae5699a59fd37edd757f9e274a056fc9b50affe181"  # Get a free API key from https://serpapi.com/
+API_KEY = "enter_your_api-key"  # Get a free API key from https://serpapi.com/
 
 def banner():
     print(Fore.RED + Style.BRIGHT + "\n[+] Advanced Google Dorking Tool - Spector-Sec [+]\n")
