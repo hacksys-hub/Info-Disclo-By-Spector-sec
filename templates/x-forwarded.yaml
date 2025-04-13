@@ -1,7 +1,7 @@
 id: x-forwarded
 info:
   name: "X-Forwarded Header Reflection"
-  author: coffin
+  author: spector-sec
   severity: medium
   description: "This template detects the reflection of X-Forwarded headers in the response."
 
