@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+mmh3==3.0.0
+colorama==0.4.6
+urllib3==1.26.12
